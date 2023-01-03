@@ -1,6 +1,6 @@
 package synchronize.block;
 
-public class SynchronizeBlock {
+public class SynchronizeBlockMain {
 
     public static void main(String[] args) {
         MyClass myClass1 = new MyClass();

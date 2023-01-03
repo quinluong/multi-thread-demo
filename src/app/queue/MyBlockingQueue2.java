@@ -1,4 +1,4 @@
-package synchronize.app.queue;
+package app.queue;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

@@ -1,4 +1,4 @@
-package synchronize.app.queue;
+package app.queue;
 
 public interface MyQueueInterface {
 

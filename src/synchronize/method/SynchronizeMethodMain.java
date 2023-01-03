@@ -1,6 +1,6 @@
 package synchronize.method;
 
-public class SynchronizeMethod {
+public class SynchronizeMethodMain {
 
     public static void main(String[] args) {
         MyClass myClass1 = new MyClass();

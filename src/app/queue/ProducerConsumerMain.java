@@ -1,6 +1,6 @@
-package synchronize.app.queue;
+package app.queue;
 
-public class ProducerConsumer {
+public class ProducerConsumerMain {
 
     public static void main(String[] args) {
 //        MyQueueInterface queue = new MyBlockingQueue1(10);

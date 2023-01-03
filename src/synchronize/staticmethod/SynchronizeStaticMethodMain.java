@@ -1,6 +1,6 @@
 package synchronize.staticmethod;
 
-public class SynchronizeStaticMethod {
+public class SynchronizeStaticMethodMain {
 
     public static void main(String[] args) {
         MyClass myClass1 = new MyClass();
