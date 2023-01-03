@@ -1,4 +1,4 @@
-package staticmethod;
+package synchronize.block;
 
 public class MyRunnable2 implements Runnable {
 
@@ -12,7 +12,7 @@ public class MyRunnable2 implements Runnable {
 
     @Override
     public void run() {
-        MyClass.method2(threadName);
+        myClass.method2(threadName);
     }
 
 }

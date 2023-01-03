@@ -1,4 +1,4 @@
-package app.queue;
+package synchronize.app.queue;
 
 import java.util.Random;
 

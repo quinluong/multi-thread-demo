@@ -1,4 +1,4 @@
-package staticmethod;
+package synchronize.method;
 
 public class MyRunnable1NonSynchronized implements Runnable {
 
@@ -12,7 +12,7 @@ public class MyRunnable1NonSynchronized implements Runnable {
 
     @Override
     public void run() {
-        MyClass.method1NonSynchronized(threadName);
+        myClass.method1NonSynchronized(threadName);
     }
 
 }

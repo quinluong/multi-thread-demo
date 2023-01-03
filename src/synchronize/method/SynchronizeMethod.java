@@ -1,4 +1,4 @@
-package method;
+package synchronize.method;
 
 public class SynchronizeMethod {
 

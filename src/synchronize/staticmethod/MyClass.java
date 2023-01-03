@@ -1,4 +1,4 @@
-package staticmethod;
+package synchronize.staticmethod;
 
 public class MyClass {
 

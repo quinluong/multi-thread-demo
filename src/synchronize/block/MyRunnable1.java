@@ -1,18 +1,18 @@
-package method;
+package synchronize.block;
 
-public class MyRunnable4 implements Runnable {
+public class MyRunnable1 implements Runnable {
 
     private final MyClass myClass;
     private final String threadName;
 
-    public MyRunnable4(MyClass myClass, String threadName) {
+    public MyRunnable1(MyClass myClass, String threadName) {
         this.myClass = myClass;
         this.threadName = threadName;
     }
 
     @Override
     public void run() {
-        myClass.method4(threadName);
+        myClass.method1(threadName);
     }
 
 }
